@@ -1,4 +1,4 @@
-Bit51-Vagrant
+Vagrant
 =============
 
-Vagrant Configuration for Bit51
+Vagrant Configuration for Springbox
